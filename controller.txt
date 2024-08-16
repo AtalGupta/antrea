@@ -1,0 +1,10 @@
+I0816 20:30:56.086991       1 log_file.go:93] Set log file max size to 104857600
+I0816 20:30:56.087191       1 controller.go:125] "LFX Mentorship 2024 Task" Github username="AtalGupta" Pod name ="antrea-controller-7989f7b56-zwqjl"
+I0816 20:30:56.087199       1 controller.go:126] "Starting Antrea Controller" version="v2.2.0-dev-7d8d4b1e.dirty"
+I0816 20:30:56.087205       1 client.go:89] No kubeconfig file was specified. Falling back to in-cluster config
+I0816 20:30:56.090943       1 selfsignedcert_provider.go:276] "Writing certificate and key to the cert directory"
+I0816 20:30:56.277521       1 handler.go:275] Adding GroupVersion controlplane.antrea.io v1beta2 to ResourceManager
+I0816 20:30:56.278027       1 handler.go:275] Adding GroupVersion system.antrea.io v1beta1 to ResourceManager
+I0816 20:30:56.278831       1 handler.go:275] Adding GroupVersion stats.antrea.io v1alpha1 to ResourceManager
+I0816 20:30:56.279619       1 prometheus.go:124] Initializing prometheus metrics
+I0816 20:30:56.279682       1 controller.go:119] "Starting" controllerName="AntreaControllerMonitor"
